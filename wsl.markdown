@@ -1,10 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
----
-
 ##  Windows Subsystem for Linux (WSL)
 
 ### Introduction 
@@ -132,4 +125,4 @@ Congratulations, you shall now be able to connect to the internet. You can try i
 I hope you have fun!
 
 
-Ricardo Correia
+Ricardo Correia 
